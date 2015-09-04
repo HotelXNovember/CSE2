@@ -3,6 +3,7 @@
 //Homework 2
 //The purpose of this program is to calculate total cost of various items bought at a store, with and without tax.
 
+
 public class Arithmetic{
     
 
